@@ -1,4 +1,5 @@
-﻿using System;
+﻿using examencines.Vista;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -102,6 +103,39 @@ namespace examencines
             {
                 childForm.Close();
             }
+        }
+
+        private void optionsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmcine childForm = new frmcine();
+            childForm.MdiParent = this;
+          
+            childForm.Show();
+        }
+
+        private void frmmain_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void salasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frmsala childForm = new Frmsala();
+            childForm.MdiParent = this;
+
+            childForm.Show();
+            
+        }
+
+        private void ciudadToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            Frmdepartamento childForm = new Frmdepartamento();
+            childForm.MdiParent = this;
+
+            childForm.Show();
+
+            
         }
     }
 }

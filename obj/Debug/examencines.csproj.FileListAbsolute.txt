@@ -1,0 +1,16 @@
+C:\Users\Yanori Osorto\source\repos\examencines\bin\Debug\examencines.exe.config
+C:\Users\Yanori Osorto\source\repos\examencines\bin\Debug\examencines.exe
+C:\Users\Yanori Osorto\source\repos\examencines\bin\Debug\examencines.pdb
+C:\Users\Yanori Osorto\source\repos\examencines\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Yanori Osorto\source\repos\examencines\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.csproj.AssemblyReference.cache
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.frmmain.resources
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.Properties.Resources.resources
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.csproj.GenerateResource.cache
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.csproj.CoreCompileInputs.cache
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.csproj.CopyComplete
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.exe
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.pdb
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.frmcine.resources
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.Vista.Frmdepartamento.resources
+C:\Users\Yanori Osorto\source\repos\examencines\obj\Debug\examencines.Vista.Frmsala.resources
